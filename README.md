@@ -32,13 +32,13 @@
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/VenkatRedd07/AI-illustrate-Text-to-Image-Generation-.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Expense-Tracker-App
+  cd AI Illustrate
 ```
 
 Go to the frontend directory and Install dependencies
